@@ -1,2 +1,2 @@
 # courseGrade
-Uses a structure tp store data
+Uses a structure to store data
